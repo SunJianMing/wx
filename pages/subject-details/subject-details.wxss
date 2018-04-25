@@ -1,0 +1,2 @@
+/* pages/subject-details/subject-details.wxss */
+@import '/common/style/list.wxss';
